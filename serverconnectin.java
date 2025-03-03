@@ -37,6 +37,7 @@ public class serverconnectin {
                 System.out.println(adderess);
                 String  accounttype =resultSet.getString(7);
                 System.out.println(accounttype);
+
                 String amount =resultSet.getString(8);
                 System.out.println(amount);
             }
